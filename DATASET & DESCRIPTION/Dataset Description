@@ -1,0 +1,13 @@
+Dataset Description:
+
+The project uses two primary datasets provided by Peterbilt Motor Company:
+
+    Attributes Dataset:
+        Contains a list of 8 vehicle attributes for each truck, along with an assigned "Option Code" for each attribute, ranging from Option 1 to Option 315.
+        Each attribute represents a specific vehicle component or specification chosen by the customer, reflecting the high customization of Peterbilt trucks.
+
+    Warranty Claims Dataset:
+        Records warranty claims data for the same set of trucks in the attributes dataset.
+        Includes information on claim amounts, claim frequency, and possibly the type of issue, enabling analysis of the costs associated with each vehicle’s configuration.
+
+Together, these datasets support a multivariate analysis of the relationship between vehicle attributes (and their combinations) and warranty costs. This enables insights into which configurations are more likely to incur higher warranty expenses.
